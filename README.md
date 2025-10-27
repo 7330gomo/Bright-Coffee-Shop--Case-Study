@@ -51,6 +51,7 @@ Identified key insights to be derived from the dataset, including:
 
 
 
+
 **Task 2: Data Processing (Snowflake)**
 
 Loaded the Bright Coffee Shop Sales dataset into Snowflake for structured data transformation and analysis.
@@ -68,6 +69,8 @@ Created additional fields to support time-based and performance insights, includ
 
 
 
+
+
 **Task 3: Data Analysis & Visualization (Excel)**
 
 Exported the transformed dataset from Snowflake into Microsoft Excel.
@@ -81,6 +84,7 @@ Created pivot tables and charts to visualize:
 3.Quantity sold per product category
 
 4.Best-selling products
+
 
 
 
