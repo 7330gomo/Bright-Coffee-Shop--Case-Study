@@ -37,10 +37,15 @@ The purpose of this analysis is to assist Bright Coffee Shop in understanding ke
 Designed a mind map in Miro to outline the data structure and workflow.
 
 Identified key insights to be derived from the dataset, including:
+
 1.Sales by product category and time interval
+
 2.High- and low-performing products
+
 3.Monthly revenue per store location
+
 4.Defined key calculations such as:
+
 5.Total_amount = unit_price * transaction_qty
 
 
@@ -52,9 +57,13 @@ Loaded the Bright Coffee Shop Sales dataset into Snowflake for structured data t
 Executed SQL queries to clean, classify, and aggregate the data.
 
 Created additional fields to support time-based and performance insights, including:
+
 1.Month and Day Name extraction for temporal trend analysis
+
 2.Day Classification to distinguish between weekdays and weekends
+
 3.Time of Day Segmentation (Morning, Afternoon, Evening, Night) based on transaction time
+
 4.Revenue Calculation using the formula transaction_qty * unit_price
 
 
@@ -64,14 +73,19 @@ Created additional fields to support time-based and performance insights, includ
 Exported the transformed dataset from Snowflake into Microsoft Excel.
 
 Created pivot tables and charts to visualize:
+
 1.Monthly revenue per store location
+
 2.Peak sales time intervals
+
 3.Quantity sold per product category
+
 4.Best-selling products
 
 
 
 **Task 4: Presentation (PowerPoint)**
+
 Compiled all key findings, charts, and insights into a PowerPoint presentation.
 Included conclusions and actionable recommendations aimed at improving business performance.
 
