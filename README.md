@@ -1,7 +1,7 @@
 ### Bright Coffee Shop Sales Analysis (BRIGHTLEARN)
 
 
- ## Overview
+## Overview
 This project analyzes transactional sales data from Bright Coffee Shop to uncover insights that can help the newly appointed CEO grow the company’s revenue and improve product performance.
 As a Junior Data Analyst, my objective is to transform raw transactional data into actionable business insights using SQL, data analytics, and visualization tools.
 
@@ -19,23 +19,15 @@ The purpose of this analysis is to assist Bright Coffee Shop in understanding ke
 4.Actionable recommendations to improve overall sales performance
    
 
-## Tools & Technologies Used
+## Tools & Technologies Used for
 
-**Planning:**
+**Planning:** Miro
 
-Miro
+**Data Processing Platform:** Snowflake
 
-**Data Processing Platform:**
+**Data Visualization:** Microsoft Excel
 
-Snowflake
-
-**Data Visualization:**
-
-Microsoft Excel
-
-**Presentation:**
-
-Microsoft PowerPoint
+**Presentation:** Microsoft PowerPoint
 
 
 
@@ -51,6 +43,9 @@ Identified key insights to be derived from the dataset, including:
 4.Defined key calculations such as:
 5.Total_amount = unit_price * transaction_qty
 
+
+
+
 **Task 2: Data Processing (Snowflake)**
 
 Loaded the Bright Coffee Shop Sales dataset into Snowflake for structured data transformation and analysis.
@@ -63,7 +58,7 @@ Created additional fields to support time-based and performance insights, includ
 4.Revenue Calculation using the formula transaction_qty * unit_price
 
 
-  
+
 **Task 3: Data Analysis & Visualization (Excel)**
 
 Exported the transformed dataset from Snowflake into Microsoft Excel.
@@ -75,21 +70,35 @@ Created pivot tables and charts to visualize:
 4.Best-selling products
 
 
+
 **Task 4: Presentation (PowerPoint)**
 Compiled all key findings, charts, and insights into a PowerPoint presentation.
 Included conclusions and actionable recommendations aimed at improving business performance.
 
+
+
+
 ## Results & Key Insights
 1.Coffee consistently achieved the highest sales across all stores and time intervals.
+
 2.Morning hours (06:00–11:59) generated the most revenue, driven mainly by coffee purchases.
+
 3.Weekdays outperformed weekends in total sales volume and revenue generation.
+
 4.June recorded the highest monthly sales across all store locations, while January showed the lowest performance.
+
 5.Hell’s Kitchen emerged as the top-performing store in overall revenue.
+
+
 
 ## Deliverables
 
 The GitHub repository includes the following project components:
+
 1.Miro Diagram: Data flow and architecture plan
+
 2.Processed Dataset (Excel): Pivot tables and visual charts
+
 3.PowerPoint Presentation: CEO insights, conclusions, and recommendations
+
 4.SQL Script/Text File: Transformation and analysis queries
