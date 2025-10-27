@@ -14,9 +14,9 @@ The purpose of this analysis is to assist Bright Coffee Shop in understanding ke
 
 2.The time of day when the store performs best
 
-3. Sales trends across products and time intervals
+3.Sales trends across products and time intervals
 
-4. Actionable recommendations to improve overall sales performance
+4.Actionable recommendations to improve overall sales performance
    
 
 ## Tools & Technologies Used
@@ -81,7 +81,5 @@ Included conclusions and actionable recommendations aimed at improving business 
 The GitHub repository includes the following project components:
 Miro Diagram: Data flow and architecture plan
 Processed Dataset (Excel): Pivot tables and visual charts
-
-🧠 PowerPoint Presentation: CEO insights, conclusions, and recommendations
-
-💻 SQL Script/Text File: Transformation and analysis queries
+PowerPoint Presentation: CEO insights, conclusions, and recommendations
+SQL Script/Text File: Transformation and analysis queries
