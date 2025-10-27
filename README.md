@@ -22,6 +22,7 @@ The purpose of this analysis is to assist Bright Coffee Shop in understanding ke
 ## Tools & Technologies Used
 
 **Planning:**
+
 Miro
 
 **Data Processing Platform:**
